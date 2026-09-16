@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.GranthApp" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
